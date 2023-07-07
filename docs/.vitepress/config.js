@@ -1,7 +1,7 @@
 export default {
-    title: '码路芽子', // 博客的标题
-    description: 'mlyz 的个人博客', // 博客的介绍
-    base: '/blog/', // 如果想用 https://mlyz.wdy.github.io/blog/ 访问，那么这句话必填
+    title: 'DSH', // 博客的标题
+    description: 'DSH 的个人博客', // 博客的介绍
+    base: '/blog/', // 如果想用 https://github.com/newbiename 访问，那么这句话必填
     themeConfig: {
         logo: "/images/logo.png", // 页面上显示的logo
         nav: [ // 页面右上角的导航
@@ -92,6 +92,6 @@ export default {
                 }
             ],
         },
-        socialLinks: [{ icon: "github", link: "https://github.com/mlyz-wdy" }], // 可以连接到 github
+        socialLinks: [{ icon: "github", link: "https://github.com/newbiename" }], // 可以连接到 github
     },
 }

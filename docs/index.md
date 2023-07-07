@@ -1,30 +1,37 @@
 ---
 layout: home
 
-title: Vite
-titleTemplate: Next Generation Frontend Tooling
+title: DSH
+titleTemplate: 一个 coder 的博客
 
 hero:
-  name: Vite // 网站的左上角标题
-  text: Next Generation Frontend Tooling // 最中间的文字
-  tagline: Get ready for a development environment that can finally catch up with you. // 最中间的文字
-  image:
-    src: /logo-with-shadow.png // 页面中最大的那个图标，默认地址 /public，放在public中无需写完整路径
-    alt: Vite
-  actions: // 对应页面上，vite英文介绍下面的三个按钮
-    - theme: brand
-      text: Get Started
-      link: /guide/
-      
-   ... // 省略一部分
-
-features: // 页面中下位置的文字介绍
-  - icon: 💡
-    title: Instant Server Start
-    details: On demand file serving over native ESM, no bundling required!
-  - icon: ⚡️
-    title: Lightning Fast HMR
-    details: Hot Module Replacement (HMR) that stays fast regardless of app size.
-  ... // 省略一部分
+    name: DSH
+    #   text: 一个 coder 的博客
+    tagline: 有时候想到不知道怎么说，就记录下来；遇到了不想错过，也记录下来；我脑子装不下东西了
+    image:
+        src: /images/logo.png
+        alt: DSH
+    actions:
+        - theme: brand
+          text: 开始使用
+          link: /articles/vue/上传素材到COS
+        - theme: alt
+          text: 在 GitHub 上查看
+          link: https://github.com/newbiename
+features:
+    - icon: 🌞
+      title: javaScript 核心系列
+      details: 基础知识积累回顾
+      link: /articles/javaScript-core/构造函数、原型、原型链
+      linkText: 查看更多
+    - icon: ⚡️
+      title: Vue 三方组件库
+      details: 一些使用过的很好用的三方库
+      link: /articles/libs/VForm3低代码初体验
+      linkText: 查看更多
+    - icon: 🛠️
+      title: 其他
+      details: 一些积累，操作，边缘事情
+      link: '/articles/other/使用VitePress建立自己的博客'
+      linkText: 查看更多
 ---
-
