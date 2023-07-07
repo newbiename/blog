@@ -5,8 +5,8 @@ export default {
     themeConfig: {
         logo: "/images/logo.png", // 页面上显示的logo
         nav: [ // 页面右上角的导航
-            { text: "vue", link: "/articles/vue/上传素材到COS" },
-            { text: "uniapp", link: "/articles/uniapp/一键登录" },
+            { text: "Vue", link: "/articles/vue/上传素材到COS" },
+            { text: "UniApp", link: "/articles/UniApp/一键登录" },
             {
                 text: '博客文档',
                 items: [ // 可以配置成下拉
@@ -37,7 +37,7 @@ export default {
                     ],
                 },
             ],
-            "/articles/uniapp/": [
+            "/articles/UniApp/": [
                 {
                     text: "基础",
                     items: [
@@ -48,7 +48,7 @@ export default {
                     items: [
                         {
                             text: "一键登录",
-                            link: "/articles/uniapp/一键登录",
+                            link: "/articles/UniApp/一键登录",
                         }
                     ],
                 },
