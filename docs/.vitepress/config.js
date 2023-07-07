@@ -13,7 +13,6 @@ export default {
                     { text: 'JavaScript 核心系列', link: '/articles/javaScript-core/构造函数、原型、原型链' },
                     { text: 'Vue 三方组件库', link: '/articles/libs/VForm3低代码初体验' },
                     { text: '其他', link: '/articles/other/nvm管理node' },
-
                 ]
             }
         ],
