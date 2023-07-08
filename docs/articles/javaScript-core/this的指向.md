@@ -142,6 +142,6 @@ new foo() // this => foo
 1.  new 不能跟 apply 和 call 一起使用
 1.  new 可以和 bind 使用，new 绑定优先级更高
 
-### 内置函数绑定思考
+<!-- ### 内置函数绑定思考 -->
 
-![image.png](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/eed727a795ce4ba8b42d608fb63e0d80~tplv-k3u1fbpfcp-watermark.image?)
+<!-- ![image.png](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/eed727a795ce4ba8b42d608fb63e0d80~tplv-k3u1fbpfcp-watermark.image?) -->
