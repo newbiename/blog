@@ -6,7 +6,7 @@ titleTemplate: 一个 coder 的博客
 
 hero:
     name: DSH
-    #   text: 一个 coder 的博客
+    text: 一个 coder 的博客
     tagline: 有时候想到不知道怎么说，就记录下来；遇到了不想错过，也记录下来；我脑子装不下东西了
     image:
         src: /images/logo.png
@@ -32,6 +32,6 @@ features:
     - icon: 🛠️
       title: 其他
       details: 一些积累，操作，边缘事情
-      link: '/articles/other/使用VitePress建立自己的博客'
+      link: '/articles/other/NVM/nvm管理node'
       linkText: 查看更多
 ---
